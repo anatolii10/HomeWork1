@@ -1,0 +1,27 @@
+body {
+	background-color: #F2F3F2;
+	padding: 0 30vw 0;
+}
+
+
+div {
+	padding: 10px;
+}
+.line {
+	border-bottom: 2px solid lightgray;
+}
+h2 {
+	margin: 0;
+
+}
+
+.foto {
+	border: 1px solid black;
+	margin-left:40%;
+
+}
+
+h1 {
+	text-transform: uppercase;
+	text-align: center;
+}
